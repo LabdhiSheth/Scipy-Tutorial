@@ -1,2 +1,9 @@
 # Scipy-Tutorial
-Internship task under Samrat Ashok Technological Institute (D), Vidisha (M.P), India Department of Computer Science and Engineering.
+
+1. Tutorial 1:
+
+    Introduction to SciPy.
+
+    This video covers the topics: Introduction to Scipy, Packages under Scipy, Implementation of Scipy library using Python Programming.
+
+    Video Link: https://www.youtube.com/watch?v=w00JhkabNTU
