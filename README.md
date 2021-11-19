@@ -11,3 +11,8 @@
     This video covers the topics: Introduction to Scipy special functions, scipy.special.jn(), scipy.special.ellipj(), scipy.special.gamma(), scipy.special.gammaln(),  scipy.special.erf(), Linear algebra operations with scipy, lianlg.del() , lianlg.inv(), lianlg.svd().
 
     Video Link: https://www.youtube.com/watch?v=FOzAM9T8nlY&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=75
+3. Tutorial 3:
+
+    This video covers the topics: Working of Scipy with Statistics and Random numbers, and implementation of stats, bins, loc, std, mean, median, scoreatpercentile.
+
+    Video Link: https://www.youtube.com/watch?v=b2Io3ND1zhc&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=76
