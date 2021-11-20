@@ -16,3 +16,8 @@
     This video covers the topics: Working of Scipy with Statistics and Random numbers, and implementation of stats, bins, loc, std, mean, median, scoreatpercentile.
 
     Video Link: https://www.youtube.com/watch?v=b2Io3ND1zhc&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=76
+4. Tutorial 4:
+
+    This video covers the topics: The ndimage (n-dimensional image) package, Tasks in image processing such as input/output image, classification, Feature extraction, Registration, etc, Basic manipulations − Cropping, flipping, rotating, etc. Image filtering − De-noising, sharpening, etc, various utilities.
+
+    Video Link: https://www.youtube.com/watch?v=BIRZ14wqYTQ&list=PLzx-_kRo3HZtP3tWaieUPwAh9K4I00_6p&index=77
